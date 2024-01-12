@@ -2,7 +2,7 @@
   "config": {
     "fontFamily": {
       "primary": {
-        "value": "Wand UI Pro",
+        "value": "Magic UI Pro",
         "type": "fontFamilies"
       },
       "secondary": {
@@ -10,11 +10,11 @@
         "type": "fontFamilies"
       },
       "tertiary": {
-        "value": "Wand UI Pro",
+        "value": "Magic UI Pro",
         "type": "fontFamilies"
       },
       "ui": {
-        "value": "Wand UI Pro",
+        "value": "Magic UI Pro",
         "type": "fontFamilies"
       },
       "uiAlt": {
